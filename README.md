@@ -1,5 +1,5 @@
-# #METOO blog
-An web app for bloging
+# #METOO
+An web app for blogging. People can share their stories with the world.
 #   General Instruction
 	Make changes through your own branch.
 # 	Instruction regarding db
